@@ -71,7 +71,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/inherit.git
+git clone https://github.com/takitajwar17/inherit-algoarena.git
 cd inherit
 ```
 
