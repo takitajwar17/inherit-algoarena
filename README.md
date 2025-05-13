@@ -1,6 +1,6 @@
-# CodeBridge - Accessible Coding Education for All
+# Inherit - Accessible Coding Education for All
 
-![CodeBridge Logo](https://github.com/user-attachments/assets/7a77c43c-1c3f-4df2-ab9a-e219304dce8f)
+![Inherit Logo](https://github.com/user-attachments/assets/7a77c43c-1c3f-4df2-ab9a-e219304dce8f)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Hack for Social Good](https://img.shields.io/badge/Hack-Social%20Good-blue)](https://algoarena.io)
@@ -8,7 +8,7 @@
 
 ## 🌟 Mission
 
-**CodeBridge** is dedicated to bridging the digital divide by making quality coding education accessible to underserved communities worldwide. Born out of the AlgoArena Hackathon for Social Good, our platform tackles educational inequality by providing AI-powered personalized learning experiences that adapt to diverse learning styles, socioeconomic backgrounds, and accessibility needs.
+**Inherit** is dedicated to bridging the digital divide by making quality coding education accessible to underserved communities worldwide. Born out of the AlgoArena Hackathon for Social Good, our platform tackles educational inequality by providing AI-powered personalized learning experiences that adapt to diverse learning styles, socioeconomic backgrounds, and accessibility needs.
 
 ### 🎯 The Problem We're Solving
 
@@ -70,8 +70,8 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/codebridge.git
-cd codebridge
+git clone https://github.com/yourusername/inherit.git
+cd inherit
 ```
 
 2. **Install dependencies**
@@ -121,9 +121,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 - **Project Lead**: [Your Name](mailto:your.email@example.com)
-- **Website**: [codebridge.org](https://codebridge.org)
-- **Twitter**: [@CodeBridgeOrg](https://twitter.com/CodeBridgeOrg)
-- **Discord Community**: [Join us](https://discord.gg/codebridge)
+- **Website**: [inherit.org](https://inherit.org)
+- **Twitter**: [@InheritOrg](https://twitter.com/InheritOrg)
+- **Discord Community**: [Join us](https://discord.gg/inherit)
 
 ---
 
