@@ -115,10 +115,10 @@ Areas where we especially need help:
 This project is part of the **AlgoArena Hackathon for Social Good** (May 2025). Our submission focuses on creating technological solutions that address critical social challenges in education accessibility.
 
 ### Judging Criteria Alignment
-- **Social Good (20 Points)**: Directly addressing educational inequality and the digital divide
-- **Uniqueness (10 Points)**: AI-powered personalization for diverse learning environments
-- **User Experience & Design (10 Points)**: Accessibility-first design principles
-- **Presentation & Pitch (10 Points)**: Clear documentation and impactful demonstration
+- **Social Good**: Directly addressing educational inequality and the digital divide
+- **Uniqueness**: AI-powered personalization for diverse learning environments
+- **User Experience & Design**: Accessibility-first design principles
+- **Presentation & Pitch**: Clear documentation and impactful demon video
 
 ## 📜 License
 
@@ -130,20 +130,11 @@ The GPL license ensures that:
 - Contributions benefit the entire community
 - The software remains free and accessible to all
 
-## 🙏 Acknowledgments
-
-- The entire open-source community for support and inspiration
-- Our contributors and maintainers who donate their time and expertise
-- Educational partners helping test our platform in diverse environments
-- The AlgoArena Hackathon for providing the platform to showcase this project
 
 ## 📬 Contact & Community
 
 - **GitHub Discussions**: Open an issue or discussion on this repository
-- **Community Forum**: [Join our community](https://community.inherit.org)
-- **Discord**: [Join our server](https://discord.gg/inherit)
-- **Twitter**: [@InheritProject](https://twitter.com/InheritProject)
-
+- **Email**: tajwaruzzaman@iut-dhaka.edu
 ---
 
 <p align="center">
