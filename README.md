@@ -2,13 +2,14 @@
 
 ![Inherit Logo](https://github.com/user-attachments/assets/7a77c43c-1c3f-4df2-ab9a-e219304dce8f)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Hack for Social Good](https://img.shields.io/badge/Hack-Social%20Good-blue)](https://algoarena.io)
-[![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![AlgoArena Hackathon](https://img.shields.io/badge/AlgoArena-Hackathon%20For%20Social%20Good-orange)](https://algoarena.io)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ## 🌟 Mission
 
-**Inherit** is dedicated to bridging the digital divide by making quality coding education accessible to underserved communities worldwide. Born out of the AlgoArena Hackathon for Social Good, our platform tackles educational inequality by providing AI-powered personalized learning experiences that adapt to diverse learning styles, socioeconomic backgrounds, and accessibility needs.
+**Inherit** is an open-source platform dedicated to bridging the digital divide by making quality coding education accessible to underserved communities worldwide. Our project tackles educational inequality by providing AI-powered personalized learning experiences that adapt to diverse learning styles, socioeconomic backgrounds, and accessibility needs.
 
 ### 🎯 The Problem We're Solving
 
@@ -99,34 +100,52 @@ npm start
 
 ## 🤝 How to Contribute
 
-We welcome contributions from everyone, regardless of your experience level! Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started.
+We welcome contributions from everyone, regardless of your experience level! This is a truly open-source project that thrives on community involvement. Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started.
 
 Areas where we especially need help:
 - 🌐 Translations and localization
 - ♿ Accessibility improvements
 - 📱 Offline functionality enhancements
 - 🧪 Educational content development
+- 🐛 Bug reporting and fixing
+- 📖 Documentation improvements
+
+## 🌱 AlgoArena Hackathon Project
+
+This project is part of the **AlgoArena Hackathon for Social Good** (May 2025). Our submission focuses on creating technological solutions that address critical social challenges in education accessibility.
+
+### Judging Criteria Alignment
+- **Social Good (20 Points)**: Directly addressing educational inequality and the digital divide
+- **Uniqueness (10 Points)**: AI-powered personalization for diverse learning environments
+- **User Experience & Design (10 Points)**: Accessibility-first design principles
+- **Presentation & Pitch (10 Points)**: Clear documentation and impactful demonstration
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+The GPL license ensures that:
+- Anyone can use, modify, and distribute this software
+- Modified versions must remain open source
+- Contributions benefit the entire community
+- The software remains free and accessible to all
 
 ## 🙏 Acknowledgments
 
-- AlgoArena Hackathon for inspiring this project
-- Our dedicated volunteer mentors and content creators
-- Open-source community for invaluable tools and libraries
-- Educational institutions partnering to bring coding to underserved regions
+- The entire open-source community for support and inspiration
+- Our contributors and maintainers who donate their time and expertise
+- Educational partners helping test our platform in diverse environments
+- The AlgoArena Hackathon for providing the platform to showcase this project
 
-## 📬 Contact
+## 📬 Contact & Community
 
-- **Project Lead**: [Your Name](mailto:your.email@example.com)
-- **Website**: [inherit.org](https://inherit.org)
-- **Twitter**: [@InheritOrg](https://twitter.com/InheritOrg)
-- **Discord Community**: [Join us](https://discord.gg/inherit)
+- **GitHub Discussions**: Open an issue or discussion on this repository
+- **Community Forum**: [Join our community](https://community.inherit.org)
+- **Discord**: [Join our server](https://discord.gg/inherit)
+- **Twitter**: [@InheritProject](https://twitter.com/InheritProject)
 
 ---
 
 <p align="center">
-  <i>Built with ❤️ for a more inclusive digital future</i>
+  <i>Free and open-source software for a more equitable digital future</i>
 </p>
