@@ -7,23 +7,24 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import ClientLayout from "./components/ClientLayout";
 import "./globals.css";
-
+import AccessibilityFloatingIcon from "./components/AccessibilityFloatingIcon";
 const kanit = Kanit({
   subsets: ["latin"],
   display: "swap",
   weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
 });
 
+// Custom Metadata
 export const metadata = {
   title: "Inherit",
   description: "Inherit: A Unified Learning & Coding Platform",
   openGraph: {
     type: "website",
-    url: "https://inherit-xtradrill.vercel.app",
+    url: "https://Inherit.vercel.app",
     title: "Inherit",
     description: "Inherit: A Unified Learning & Coding Platform",
     image:
-      "https://raw.githubusercontent.com/takitajwar17/inherit/refs/heads/main/public/inherit.png",
+      "https://raw.githubusercontent.com/takitajwar17/Inherit/refs/heads/main/public/inherit.png",
   },
 };
 
@@ -55,6 +56,7 @@ export default function RootLayout({ children }) {
               </div>
             </main>
           </ClientLayout>
+          <AccessibilityFloatingIcon />
           <ToastContainer />
           <Analytics />
           <SpeedInsights />
